@@ -1,0 +1,74 @@
+{
+  "exercises":
+[
+  { "id": 1, "exercise": "Incline Dumbbell Press", "category": "Strength", "muscleGroup": "Chest", "sets": "3 x 12" },
+  { "id": 2, "exercise": "Cable Crossover", "category": "Strength", "muscleGroup": "Chest", "sets": "4 x 12" },
+  { "id": 3, "exercise": "Push Up", "category": "Strength", "muscleGroup": "Chest", "sets": "4 x 15" },
+  { "id": 4, "exercise": "Barbell Bench Press", "category": "Strength", "muscleGroup": "Chest", "sets": "4 x 10" },
+  { "id": 5, "exercise": "Dumbbell Flys", "category": "Strength", "muscleGroup": "Chest", "sets": "3 x 12" },
+  { "id": 6, "exercise": "Chest Flys", "category": "Strength", "muscleGroup": "Chest", "sets": "3 x 15" },
+  { "id": 7, "exercise": "Machine Bench Press", "category": "Strength", "muscleGroup": "Chest", "sets": "4 x 10" },
+  { "id": 8, "exercise": "Decline Barbell Bench Press", "category": "Strength", "muscleGroup": "Chest", "sets": "4 x 8" },
+  { "id": 9, "exercise": "Dumbbell Bench Press", "category": "Strength", "muscleGroup": "Chest", "sets": "3 x 12" },
+
+
+  { "id": 10, "exercise": "Deadlift", "category": "Strength", "muscleGroup": "Back", "sets": "4 x 6" },
+  { "id": 11, "exercise": "Lat Pulldown", "category": "Strength", "muscleGroup": "Back", "sets": "4 x 10" },
+  { "id": 12, "exercise": "Bent Over Rows", "category": "Strength", "muscleGroup": "Back", "sets": "4 x 8" },
+  { "id": 13, "exercise": "Dumbbell Row", "category": "Strength", "muscleGroup": "Back", "sets": "3 x 12" },
+  { "id": 14, "exercise": "Reverse Lat Pulldown", "category": "Strength", "muscleGroup": "Back", "sets": "3 x 15" },
+  { "id": 15, "exercise": "Pull Up", "category": "Strength", "muscleGroup": "Back", "sets": "4 x 8" },
+  { "id": 16, "exercise": "Renegade Row", "category": "Strength", "muscleGroup": "Back", "sets": "3 x 10" },
+  { "id": 17, "exercise": "Back Extension", "category": "Strength", "muscleGroup": "Back", "sets": "4 x 12" },
+  { "id": 18, "exercise": "Barbell Row", "category": "Strength", "muscleGroup": "Back", "sets": "4 x 10" },
+
+  { "id": 19, "exercise": "Hammer Curl", "category": "Strength", "muscleGroup": "Biceps", "sets": "3 x 12" },
+  { "id": 20, "exercise": "Concentration Curl", "category": "Strength", "muscleGroup": "Biceps", "sets": "4 x 10" },
+  { "id": 21, "exercise": "Cable Curl", "category": "Strength", "muscleGroup": "Biceps", "sets": "3 x 15" },
+  { "id": 22, "exercise": "Incline Dumbbell Curl", "category": "Strength", "muscleGroup": "Biceps", "sets": "3 x 12" },
+  { "id": 23, "exercise": "Barbell Curl", "category": "Strength", "muscleGroup": "Biceps", "sets": "4 x 8" },
+  { "id": 24, "exercise": "Incline Curl", "category": "Strength", "muscleGroup": "Biceps", "sets": "3 x 10" },
+  { "id": 25, "exercise": "Preacher Curl", "category": "Strength", "muscleGroup": "Biceps", "sets": "4 x 12" },
+  { "id": 26, "exercise": "Dumbbell Curl", "category": "Strength", "muscleGroup": "Biceps", "sets": "3 x 15" },
+
+  { "id": 27, "exercise": "Triceps Kickbacks", "category": "Strength", "muscleGroup": "Triceps", "sets": "3 x 12" },
+  { "id": 28, "exercise": "Close Grip Bench Press", "category": "Strength", "muscleGroup": "Triceps", "sets": "4 x 8" },
+  { "id": 29, "exercise": "Tricep Dips", "category": "Strength", "muscleGroup": "Triceps", "sets": "3 x 10" },
+  { "id": 30, "exercise": "Triceps Extension", "category": "Strength", "muscleGroup": "Triceps", "sets": "4 x 12" },
+  { "id": 31, "exercise": "Skull Crushers", "category": "Strength", "muscleGroup": "Triceps", "sets": "3 x 15" },
+  { "id": 32, "exercise": "Triceps Pushdown - Rope Attachment", "category": "Strength", "muscleGroup": "Triceps", "sets": "4 x 10" },
+  { "id": 33, "exercise": "Seated Dumbbell Tricep Extension", "category": "Strength", "muscleGroup": "Triceps", "sets": "3 x 12" },
+  { "id": 34, "exercise": "Dumbbell Floor Press", "category": "Strength", "muscleGroup": "Triceps", "sets": "4 x 8" },
+  { "id": 35, "exercise": "Tricep Pushdowns", "category": "Strength", "muscleGroup": "Triceps", "sets": "3 x 15" },
+
+  { "id": 36, "exercise": "Lateral Raise", "category": "Strength", "muscleGroup": "Shoulders", "sets": "3 x 12" },
+  { "id": 37, "exercise": "Dumbbell Front Raise", "category": "Strength", "muscleGroup": "Shoulders", "sets": "4 x 10" },
+  { "id": 38, "exercise": "Machine Shoulder Press", "category": "Strength", "muscleGroup": "Shoulders", "sets": "4 x 10" },
+  { "id": 39, "exercise": "Seated Dumbbell Shoulder Press", "category": "Strength", "muscleGroup": "Shoulders", "sets": "3 x 12" },
+  { "id": 40, "exercise": "Reverse Machine Flys", "category": "Strength", "muscleGroup": "Shoulders", "sets": "4 x 10" },
+  { "id": 41, "exercise": "Dumbbell Upright Row", "category": "Strength", "muscleGroup": "Shoulders", "sets": "4 x 8" },
+  { "id": 42, "exercise": "Arnold Press", "category": "Strength", "muscleGroup": "Shoulders", "sets": "3 x 10" },
+  { "id": 43, "exercise": "Cable Face Pull", "category": "Strength", "muscleGroup": "Shoulders", "sets": "4 x 12" },
+
+ 
+  { "id": 44, "exercise": "Barbell Back Squat", "category": "Strength", "muscleGroup": "Legs", "sets": "4 x 10" },
+  { "id": 45, "exercise": "Leg Press", "category": "Strength", "muscleGroup": "Legs", "sets": "3 x 12" },
+  { "id": 46, "exercise": "Walking Lunges", "category": "Strength", "muscleGroup": "Legs", "sets": "3 x 15 each leg" },
+  { "id": 47, "exercise": "Split Squat", "category": "Strength", "muscleGroup": "Legs", "sets": "3 x 12" },
+  { "id": 48, "exercise": "Leg Extension", "category": "Strength", "muscleGroup": "Legs", "sets": "4 x 12" },
+  { "id": 49, "exercise": "Romanian Deadlift", "category": "Strength", "muscleGroup": "Legs", "sets": "3 x 10" },
+  { "id": 50, "exercise": "Calf Raise", "category": "Strength", "muscleGroup": "Legs", "sets": "4 x 15" },
+  { "id": 51, "exercise": "Reverse Lunges", "category": "Strength", "muscleGroup": "Legs", "sets": "3 x 12" },
+
+  
+  { "id": 52, "exercise": "Jump Rope", "category": "Cardio", "muscleGroup": "Cardio", "sets": "5 mins" },
+  { "id": 53, "exercise": "Burpee", "category": "Cardio", "muscleGroup": "Cardio", "sets": "3 x 15" },
+  { "id": 54, "exercise": "Cycling", "category": "Cardio", "muscleGroup": "Cardio", "sets": "20 mins" },
+  { "id": 55, "exercise": "Jumping Jack", "category": "Cardio", "muscleGroup": "Cardio", "sets": "3 x 50" },
+  { "id": 56, "exercise": "Rowing", "category": "Cardio", "muscleGroup": "Cardio", "sets": "10 mins" },
+  { "id": 57, "exercise": "Swimming", "category": "Cardio", "muscleGroup": "Cardio", "sets": "20 mins" },
+  { "id": 58, "exercise": "Mountain Climbers", "category": "Cardio", "muscleGroup": "Cardio", "sets": "3 x 20" },
+  { "id": 59, "exercise": "Squat Jump", "category": "Cardio", "muscleGroup": "Cardio", "sets": "4 x 15" },
+  { "id": 60, "exercise": "Elliptical", "category": "Cardio", "muscleGroup": "Cardio", "sets": "30 mins" }
+]
+}
